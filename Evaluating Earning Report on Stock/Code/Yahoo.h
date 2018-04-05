@@ -1,10 +1,3 @@
-//
-//  Yahoo.h
-//  Project_team6
-//
-//  Created by LIANGLINQIAN on 2017/12/7.
-//  Copyright © 2017年 LIANGLINQIAN. All rights reserved.
-//
 
 #ifndef Yahoo_h
 #define Yahoo_h
