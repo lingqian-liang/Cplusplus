@@ -1,2 +1,11 @@
 ####
-##This project
+#The logic behind the whole project is
+#Firstly, read ticker in csv file.
+#Secondly, retrieve and parse stock data and market data from Yahoo Finance. (This part is in the Yahoo.h and Yahoo.cpp)
+#Thirdly, classify the data according to the excessive return 
+#Fourthly, bootstrap the stocks and calculate AAR and CAAR
+#Fifthly, plot the result and design a user platform
+
+#Notice: The whole project needs to download the library curl(it is already download in mac) and gunplot, and change dialect 
+#language to C++ 11 in order to execute multithreads
+
