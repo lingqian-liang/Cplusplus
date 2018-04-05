@@ -1,10 +1,3 @@
-//
-//  operators.hpp
-//  Project
-//
-//  Created by Qiang Ji on 12/1/17.
-//  Copyright © 2017 LIANGLINQIAN. All rights reserved.
-//
 
 #define MIN(X, Y) (((X) < (Y)) ? (X) : (Y))
 #define MAN(X, Y) (((X) < (Y)) ? (Y) : (X))
